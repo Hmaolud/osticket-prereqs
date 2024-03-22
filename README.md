@@ -59,10 +59,20 @@ Open IIS as administrator. Register PHP inside of IIS. Stop and start server. In
 
 
 <p>
-<img src="https://i.imgur.com/HiD1pzQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8jpucLf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Start filling out the form in os Ticket. Before you complete the form, you'll need a database client. Install HeidiSQL. Open HeidiSQL and create a new database using the name and password you created for MySQL. Connect to session and create a database called "osTicket". Now that you've created a database you can now finish filling out the form. Use your MySQL name and password on the form. Click install now. Browse to your help desk login page: http://localhost/osTicket/scp/login.php. There's a little bit of cleanup necessary before you proceed. Delete: C:\inetpub\wwwroot\osTicket\setup. Set permissions to “Read, Read and execute" at : C:\inetpub\wwwroot\osTicket\include\ost-config.php.
 </p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/4uIe0vi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Use this link http://localhost/osTicket/scp/login.php fill out credentials and login!
+</p>
+<br />
+
 
